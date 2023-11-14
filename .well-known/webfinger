@@ -3,7 +3,7 @@
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://id.shreejee.net/webman/sso/.well-known/openid-configuration"
+      "href": "https://auth.shreejee.net/webman/sso/.well-known/openid-configuration"
     }
   ]
 }
