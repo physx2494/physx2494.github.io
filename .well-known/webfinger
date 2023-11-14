@@ -1,0 +1,9 @@
+{
+  "subject": "acct:admin@id.shreejee.net",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://id.shreejee.net/webman/sso/.well-known/openid-configuration"
+    }
+  ]
+}
